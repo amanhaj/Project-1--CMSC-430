@@ -1,0 +1,27 @@
+-- Punctuation symbols
+
+,;() 
+
+-- Identifier
+
+name name123 
+
+-- Literals
+
+123
+
+-- Logical operators
+
+and or not
+
+-- Relational operators
+
+<
+
+-- Arithmetic operator
+
++
+
+-- Reserved words
+
+begin else end endif endreduce function if is integer reduce returns then 

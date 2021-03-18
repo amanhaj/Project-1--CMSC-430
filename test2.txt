@@ -1,0 +1,6 @@
+-- Function with two lexical errors
+
+function test2 returns integer;
+begin
+    7 ? 2 ^ (2  + 4);
+end;
